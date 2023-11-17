@@ -5,6 +5,7 @@ Program intended to learn the basics of python threading and multiprocessing
 Followed the following videos for practice
  - Threading
    - https://www.youtube.com/watch?v=IEEhzQoKtQU
+  9:40
 
      - Creating and destroying threads comes with overhead cost
 
